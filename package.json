@@ -1,0 +1,21 @@
+{
+  "name": "Discord AI-like Bot",
+  "version": "1.0.0",
+  "description": "Discord AI-like Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.16.0",
+    "tiny-segmenter": "^0.2.0",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
